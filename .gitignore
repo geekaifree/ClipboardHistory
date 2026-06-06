@@ -1,0 +1,9 @@
+
+# ===== Flutter 生成文件（包含本地路径）=====
+**/flutter_export_environment.sh
+**/Generated.xcconfig
+**/Flutter-Generated.xcconfig
+**/Flutter/ephemeral/
+**/android/local.properties
+**/.dart_tool/
+**/build/
